@@ -36,5 +36,5 @@ Just a praticing repo, don't take it serious.
 
 ## Author
 
-*   **Hiago Silvério** - *Initial work* - [Hiago Silvério](https://github.com/hiagosilverio)
+**Hiago Silvério** - *Initial work* - [Hiago Silvério](https://github.com/hiagosilverio)
 
