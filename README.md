@@ -15,6 +15,7 @@ Just a praticing repo, don't take it serious.
 -   Bootstrap 4
 -   Codacy 
 -   [PHP Doc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
+-   [Logger](https://www.php-fig.org/psr/psr-3/)
 
 ## Challenge [Open, no deadline]
 ### Pages
