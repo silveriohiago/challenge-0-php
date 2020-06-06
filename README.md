@@ -5,6 +5,7 @@ Just a praticing repo.
 
 ## Features
 - Git Flow
+- PHP lint
 - Travis CI/CD
 - Heroku
 - PHP Right Way
