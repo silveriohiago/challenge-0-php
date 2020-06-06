@@ -5,36 +5,37 @@
 Just a praticing repo, don't take it serious.
 
 ## Features
-- Git Flow
-- Github actions (if necessary)
-- PHP lint
-- Travis CI/CD
-- Heroku
-- PHP Right Way
-- Clean Code
-- Bootstrap 4
-- Codacy 
-- [PHP Doc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
+-   Git Flow
+-   Github actions (if necessary)
+-   PHP lint
+-   Travis CI/CD
+-   Heroku
+-   PHP Right Way
+-   Clean Code
+-   Bootstrap 4
+-   Codacy 
+-   [PHP Doc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
+-   [Logger](https://www.php-fig.org/psr/psr-3/)
 
 ## Challenge [Open, no deadline]
 ### Pages
-- Home
-- About-Us
-- Services
-- Contact (contact form)
+-   Home
+-   About-Us
+-   Services
+-   Contact (contact form)
 ### First project cycle
-- Deployment of php website with OOP w/ simple routers.
-- Verified for PSR1, PSR12 and PSR4
-- Heroku, Travis and Postgres integration.
-- No necessary database here.
+-   Deployment of php website with OOP w/ simple routers.
+-   Verified for PSR1, PSR12 and PSR4
+-   Heroku, Travis and Postgres integration.
+-   No necessary database here.
 ### Second project cycle 
-- Deployment of php website with pure MVC
-- PDO implementation
-- Codacy B or A grade
--  CI/CD passed
+-   Deployment of php website with pure MVC
+-   PDO implementation
+-   Codacy B or A grade
+-   CI/CD passed
 
 
 ## Author
 
-*   **Hiago Silvério** - *Initial work* - [Hiago Silvério](https://github.com/hiagosilverio)
+**Hiago Silvério** - *Initial work* - [Hiago Silvério](https://github.com/hiagosilverio)
 
