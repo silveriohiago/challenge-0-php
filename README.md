@@ -23,15 +23,15 @@ Just a praticing repo, don't take it serious.
 - Services
 - Contact (contact form)
 ### First project cycle
-[ ] Deployment of php website with OOP, simple routers.
-[] Verified for PSR1, PSR12 and PSR4
-[]  Heroku, Travis and Postgres integration.
-[]  No necessary database here.
+- Deployment of php website with OOP w/ simple routers.
+- Verified for PSR1, PSR12 and PSR4
+- Heroku, Travis and Postgres integration.
+- No necessary database here.
 ### Second project cycle 
-[]  Deployment of php website with pure MVC
-[]  PDO implementation
-[]  Codacy B or A grade
-[]  CI/CD passed
+- Deployment of php website with pure MVC
+- PDO implementation
+- Codacy B or A grade
+-  CI/CD passed
 
 
 ## Author
