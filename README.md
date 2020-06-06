@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/hiagosilverio/web-learn-php.svg?branch=master)](https://travis-ci.com/hiagosilverio/web-learn-php)
 ![Heroku](https://heroku-badge.herokuapp.com/?app=php-learn-website)
+![Codacy](https://app.codacy.com/project/badge/Grade/174c2bd105084c9cbb802b7f61fbec59)
 # web-learn-php
 Just a praticing repo.
 
