@@ -15,7 +15,7 @@ Just a praticing repo.
 - Codacy 
 - [PHP Doc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
 
-## Challenge
+## Challenge [Open, no deadline]
 ### Pages
 - Home
 - About-Us
