@@ -5,16 +5,16 @@
 Just a praticing repo, don't take it serious.
 
 ## Features
-- Git Flow
-- Github actions (if necessary)
-- PHP lint
-- Travis CI/CD
-- Heroku
-- PHP Right Way
-- Clean Code
-- Bootstrap 4
-- Codacy 
-- [PHP Doc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
+-   Git Flow
+-   Github actions (if necessary)
+-   PHP lint
+-   Travis CI/CD
+-   Heroku
+-   PHP Right Way
+-   Clean Code
+-   Bootstrap 4
+-   Codacy 
+-   [PHP Doc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
 
 ## Challenge [Open, no deadline]
 ### Pages
