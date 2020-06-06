@@ -11,14 +11,16 @@ Just a praticing repo.
 - Heroku
 - PHP Right Way
 - Clean Code
+- Bootstrap 4
 - Codacy 
 - [PHP Doc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
 
 ## Challenge
 ### First project cycle
-- Deployment of php website with OOP
+- Deployment of php website with OOP, simple routers.
 - Verified for PSR1, PSR12 and PSR4
 - Heroku, Travis and Postgres implementation.
+- No necessary database here.
 ### Second project cycle 
 - Deployment of php website with pure MVC
 - PDO implementation
