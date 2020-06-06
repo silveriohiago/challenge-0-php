@@ -14,6 +14,12 @@ Just a praticing repo.
 - Codacy 
 - [PHP Doc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
 
+## Challenge
+### First project cycle
+-> Deployment of php website with OOP
+### Second project cycle
+-> Deployment of php website with pure MVC
+
 ## Author
 
 *   **Hiago Silvério** - *Initial work* - [Hiago Silvério](https://github.com/hiagosilverio)
