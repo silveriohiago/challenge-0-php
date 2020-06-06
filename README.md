@@ -16,6 +16,11 @@ Just a praticing repo.
 - [PHP Doc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
 
 ## Challenge
+### Pages
+- Home
+- About-Us
+- Services
+- Contact (contact form)
 ### First project cycle
 - Deployment of php website with OOP, simple routers.
 - Verified for PSR1, PSR12 and PSR4
