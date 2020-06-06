@@ -9,6 +9,7 @@ Just a praticing repo.
 - Heroku
 - PHP Right Way
 - Clean Code
+- Codacy 
 
 ## Author
 
