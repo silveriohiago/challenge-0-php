@@ -11,7 +11,7 @@ Just a praticing repo.
 - PHP Right Way
 - Clean Code
 - Codacy 
-- (PHP Doc)[https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md]
+- [PHP Doc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
 
 ## Author
 
