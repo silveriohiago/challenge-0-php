@@ -23,7 +23,7 @@ Just a praticing repo, don't take it serious.
 - Services
 - Contact (contact form)
 ### First project cycle
-[] Deployment of php website with OOP, simple routers.
+[ ] Deployment of php website with OOP, simple routers.
 [] Verified for PSR1, PSR12 and PSR4
 []  Heroku, Travis and Postgres integration.
 []  No necessary database here.
