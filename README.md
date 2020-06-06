@@ -18,7 +18,7 @@ Just a praticing repo.
 ### First project cycle
 -> Deployment of php website with OOP
 -> Verified for PSR1, PSR12 and PSR4
-### Second project cycle
+### Second project cycle 
 -> Deployment of php website with pure MVC
 -> PDO implementation
 -> Codacy B or A grade
