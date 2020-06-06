@@ -6,6 +6,7 @@ Just a praticing repo, don't take it serious.
 
 ## Features
 - Git Flow
+- Github actions (if necessary)
 - PHP lint
 - Travis CI/CD
 - Heroku
