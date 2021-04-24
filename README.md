@@ -1,7 +1,8 @@
 [![Build Status](https://travis-ci.com/hiagosilverio/web-learn-php.svg?branch=master)](https://travis-ci.com/hiagosilverio/web-learn-php)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/174c2bd105084c9cbb802b7f61fbec59)](https://www.codacy.com/manual/hiago.silverioest/web-learn-php?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hiagosilverio/web-learn-php&amp;utm_campaign=Badge_Grade)
 # web-learn-php
-Just a praticing repo, don't take it serious.
+
+Just a praticing repo.
 
 ## Features
 - Git Flow
